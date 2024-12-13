@@ -14,7 +14,7 @@ As a key contributor, I was responsible for **integrating all modules and creati
   - **Solution**: Corrected the clock edge trigger in the register file to `negedge`, ensuring proper synchronization.
     
 
-![GitHub commits]( https://github.com/GiannisChristodoulou1/RISCV-CPU-14/commit/15d22f31502b1235e8ad730080da6ba39b3765b4)
+   [GitHub commits]( https://github.com/GiannisChristodoulou1/RISCV-CPU-14/commit/15d22f31502b1235e8ad730080da6ba39b3765b4)
  
 
 - **Issue 2: Missing ALU Instructions**
