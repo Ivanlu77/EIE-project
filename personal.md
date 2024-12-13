@@ -12,10 +12,10 @@ As a key contributor, I was responsible for **integrating all modules and creati
 - **Issue 1: Register File Clock Edge**
   - **Problem**: The register file did not use `negedge`, causing misalignment of signals.
   - **Solution**: Corrected the clock edge trigger in the register file to `negedge`, ensuring proper synchronization.
-    ### Project Activity
+    
 
-![GitHub commits](https://img.shields.io/github/commits-since/john-doe/my-cpu-project/abcdef?style=flat-square)
-  https://github.com/GiannisChristodoulou1/RISCV-CPU-14/commit/15d22f31502b1235e8ad730080da6ba39b3765b4
+![GitHub commits]( https://github.com/GiannisChristodoulou1/RISCV-CPU-14/commit/15d22f31502b1235e8ad730080da6ba39b3765b4)
+ 
 
 - **Issue 2: Missing ALU Instructions**
   - **Problem**: The ALU lacked essential instructions.
