@@ -66,3 +66,23 @@ To create the **Hazard Unit**, we used a diagram-based approach to detect and re
 - **Solution**: Discovered that the register file was not using `negedge`, causing synchronization issues. After modifying the design to use **negedge**, the hazard unit operated as intended.
 
 Through consistent debugging, collaboration, and rigorous testing, I successfully contributed to the development of a functional, efficient CPU pipeline with hazard resolution.
+
+
+Learnings and Skills Acquired:
+Collaborative Development with GitHub:
+Mastered using GitHub for version control, enabling effective collaboration with team members, managing code repositories, and handling branches and merges seamlessly.
+SystemVerilog Proficiency:
+Enhanced skills in writing and debugging SystemVerilog modules, including designing complex hardware components and ensuring their correct interaction within a CPU architecture.
+Module Testing and Validation:
+Gained expertise in creating and running testbenches to validate module designs, utilizing simulation tools to ensure functionality and performance.
+Understanding RISC-V32I CPU Architecture:
+Deepened understanding of the RISC-V32I CPU’s working principles, including instruction decoding, execution, hazard detection, and pipeline management.
+Future Improvements and Goals:
+Enhanced Team Communication:
+Plan to maintain consistent communication with team members at each stage of development to streamline debugging processes and foster collaborative problem-solving.
+Adherence to Coding Standards:
+Commit to using uniform coding rules across all modules to improve code readability, maintainability, and reduce the likelihood of integration issues.
+Pipeline Optimization:
+Aim to further optimize the pipeline CPU design by implementing advanced hazard detection techniques and exploring out-of-order execution for improved performance.
+Comprehensive Testing:
+Intend to expand testbench scenarios to cover a wider range of instructions and edge cases, ensuring robust CPU performance under various conditions.
