@@ -3,8 +3,7 @@
 - **Assisted in debugging single-cycle and pipeline designs**
 - **Supported the development of the hazard unit**
 - **Created testbenches for multiple testing scenarios**, including plot PDF results on VBuddy.
-- **Developed an F1 test program**
-- **Engineered a testbench to control VBuddy lights**, tracking system output through vbuddy light.
+- **Developed an F1 test program** run on Vbuddy to simulate the f1 light
 
 ### Non-Pipeline CPU
 As a key contributor, I was responsible for **integrating all modules and creating the top module** to ensure proper execution. This involved identifying and resolving unexpected errors in the submodules to guarantee the CPU’s overall functionality. Key challenges and solutions included:
