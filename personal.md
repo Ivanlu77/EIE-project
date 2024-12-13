@@ -68,7 +68,8 @@ To create the **Hazard Unit**, we used a diagram-based approach to detect and re
 Through consistent debugging, collaboration, and rigorous testing, I successfully contributed to the development of a functional, efficient CPU pipeline with hazard resolution.
 
 
-Learnings and Skills Acquired
+###Learnings and Skills Acquired
+
 Collaborative Development with GitHub:
 
 Mastered using GitHub for version control, enabling effective collaboration with team members, managing code repositories, and handling branches and merges seamlessly.
@@ -81,7 +82,8 @@ Gained expertise in creating and running testbenches to validate module designs,
 Understanding RISC-V32I CPU Architecture:
 
 Deepened understanding of the RISC-V32I CPU’s working principles, including instruction decoding, execution, hazard detection, and pipeline management.
-Future Improvements and Goals
+###Future Improvements and Goals
+
 Enhanced Team Communication:
 
 Plan to maintain consistent communication with team members at each stage of development to streamline debugging processes and foster collaborative problem-solving.
