@@ -1,5 +1,12 @@
 # Test Instructions
+For Pipeline Cpu With Harzard in the main branch
 
+
+For Pipeline Cpu Without Hazard in Pipeline_CPU-V2.0
+https://github.com/GiannisChristodoulou1/RISCV-CPU-14/tree/Pipeline-CPU-V2.0
+
+For nonpipeline CPU in Non-Pipeline-CPU-V3.0
+https://github.com/GiannisChristodoulou1/RISCV-CPU-14/tree/Non-Pipeline-CPU-V3.0
 ## Running 5 Tests
 
 1. **Navigate to the test directory**
@@ -39,11 +46,5 @@
   - **PDF Plot** uses: `program.hex`
   - **F1 Test** uses: `program_f1.hex`
 
-- Verify that you have the required permissions to execute the scripts (`./doit.sh` and `./f1.sh`). If necessary, make the scripts executable:
-  ```bash
-  chmod +x doit.sh f1.sh
-  ```
-
-By following these steps, you will be able to run the standard tests, the F1 test, and generate the PDF plot without any issues.
 
 
