@@ -24,7 +24,7 @@ As a key contributor, I was responsible for **integrating all modules and creati
 - **Issue 3: JALR Instruction Handling**
   - **Problem**: The main decoder failed to detect `JALR` instructions.
   - **Solution**: Introduced the **JumpLinkReg** signal to the main decoder, which activates upon detecting `JALR`. The logic was implemented as follows:
-
+     [GitHub commits](https://github.com/GiannisChristodoulou1/RISCV-CPU-14/commit/125aae6fd0ad07a18d2274e5459f6ef5fc08961b)
 ```verilog
 JALR: begin    // JALR
     RegWrite    =   1'b1;
